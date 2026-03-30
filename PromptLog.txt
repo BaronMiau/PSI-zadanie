@@ -1,0 +1,35 @@
+MODEL:Chatgpt 5.2 Thinking
+
+wazny prompt nr.1
+robie w notepad++
+chce stworzyć stronę w 100% za pomocą ai, nie musi być skomplikowana
+1. Cel projektu
+Twoim zadaniem jest stworzenie funkcjonalnej witryny internetowej składającej się z 10 podstron. Cały proces - od planowania struktury, przez generowanie treści i grafik, aż po pisanie kodu HTML/CSS - musi zostać wykonany przy wsparciu narzędzi Sztucznej Inteligencji
+2.Pomóż mi z wyborem tematyki. daj jakieś propozycje.
+3. Wymagania techniczne i merytoryczne:
+Struktura: 10 powiązanych ze sobą stron HTML 
+
+Nawigacja: Proste menu tekstowe na każdej stronie, pozwalające swobodnie poruszać się między wszystkimi podstronami. 
+
+Tabelka: Przynajmniej na jednej podstronie musi znaleźć się tabela 
+
+Multimedia: Przynajmniej 5 grafik wygenerowanych przez AI 
+
+Formatowanie tekstu: Użycie nagłówków , list , pogrubień i akapitów.
+
+Stylizacja: Prosty arkusz stylów CSS (również wygenerowany przez AI), aby strona była czytelna (np. zmiana kolorów tła, czcionek, wyśrodkowanie menu).
+4.Wygeneruj obrazy zgodne z tematyka które wybiore. zapisz je w foldzerze images
+Napisz jeśli trzeba coś bardziej doprecyzować
+
+
+wazny propmt nr.2
+dodaj css, dodaj dzialajace podstrony wraz z zawartoscia czyli obrazkami i tekstem, upewnij sie że wszystko dziala
+
+
+wazny propmt nr.3
+masz stworzyc te podstrony jako osobne pliki. wyslij mi je potem wraz z glowna strona i plikiem css jako folder. upewnij sie ze dziala i że na stronach wyswietlają się wygenerowane przez ciebie obrazki, ktore miales tam dodać.
+
+
+wazny propmt nr.4
+(chat pogłubił sie zupelnie, trzeba bylo go od nowa naprowadzic)
+Home i revievs dziala, ale potrzebuje 10 podstron na którym bedzie lacznie 5 grafik. grafiki mam gotowe. przypomnimam ci wymagania 3. Wymagania techniczne i merytoryczne: Struktura: 10 powiązanych ze sobą stron HTML Nawigacja: Proste menu tekstowe na każdej stronie, pozwalające swobodnie poruszać się między wszystkimi podstronami. Tabelka: Przynajmniej na jednej podstronie musi znaleźć się tabela Multimedia: Przynajmniej 5 grafik wygenerowanych przez AI Formatowanie tekstu: Użycie nagłówków , list , pogrubień i akapitów. Stylizacja: Prosty arkusz stylów CSS (również wygenerowany przez AI), aby strona była czytelna (np. zmiana kolorów tła, czcionek, wyśrodkowanie menu).
